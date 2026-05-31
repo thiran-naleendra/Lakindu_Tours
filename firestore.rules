@@ -1,0 +1,73 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    
+    // Helper function to check if user is authenticated
+    function isAuthenticated() {
+      return request.auth != null;
+    }
+
+    // Site Settings: Public Read, Auth Write
+    match /settings/{document=**} {
+      allow read: if true;
+      allow write: if isAuthenticated();
+    }
+    match /site_settings/{document=**} {
+      allow read: if true;
+      allow write: if isAuthenticated();
+    }
+
+    // Tours: Public Read, Auth Write
+    match /tours/{tourId} {
+      allow read: if true;
+      allow write: if isAuthenticated();
+    }
+
+    // Destinations: Public Read, Auth Write
+    match /destinations/{destinationId} {
+      allow read: if true;
+      allow write: if isAuthenticated();
+    }
+
+    // Gallery: Public Read, Auth Write
+    match /gallery_assets/{imageId} {
+      allow read: if true;
+      allow write: if isAuthenticated();
+    }
+
+    // Team: Public Read, Auth Write
+    match /team/{memberId} {
+      allow read: if true;
+      allow write: if isAuthenticated();
+    }
+    
+    // Hotels: Public Read, Auth Write
+    match /hotels/{hotelId} {
+      allow read: if true;
+      allow write: if isAuthenticated();
+    }
+
+    // Reviews: Public Read, Auth Write
+    match /reviews/{reviewId} {
+      allow read: if true;
+      allow write: if isAuthenticated();
+    }
+
+    // Modules: Public Read, Auth Write
+    match /modules/{moduleId} {
+      allow read: if true;
+      allow write: if isAuthenticated();
+    }
+
+    // Inquiries: Public Create, Auth Read/Update
+    match /inquiries/{inquiryId} {
+        allow create: if true;
+        allow read, update, delete: if isAuthenticated();
+    }
+    
+    // Default: Deny all
+    match /{document=**} {
+      allow read, write: if isAuthenticated();
+    }
+  }
+}

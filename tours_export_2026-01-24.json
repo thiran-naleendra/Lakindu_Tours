@@ -1,0 +1,947 @@
+[
+  {
+    "id": "FRYOS6SXZxQQuPySIgu3",
+    "description": "A perfect 7-day family-friendly escape to the Maldives, exploring the stunning North Malé Atoll with luxurious resort stays, marine adventures, watersports, dolphin cruises, spa indulgence, and unforgettable family moments.",
+    "status": "Published",
+    "name": "07 Days – Family Escape To Maldives",
+    "createdAt": "2026-01-09T06:00:03.427Z",
+    "mapUrl": "",
+    "duration": "7 Days",
+    "coverImage": "https://pub-968d59474a824ac18a8b21b2b0e3f4f6.r2.dev/1767938467054-imgi_11_Boat-Service-Maldives.jpg",
+    "slug": "07-days-family-escape-to-maldives",
+    "price": "On Request",
+    "location": "Maldives",
+    "inclusions": [
+      "Airport pick-up and drop-off",
+      "Resort accommodation",
+      "Family-friendly resort facilities",
+      "Selected excursions and activities",
+      "Kids and teens entertainment programs"
+    ],
+    "itinerary": [
+      {
+        "highlights": [
+          "Seaplane Maldives",
+          "North Malé Atoll"
+        ],
+        "destination": "Maldives",
+        "overnight": "Maldives",
+        "activities": [
+          "Pick-up and assistance at Male International Airport",
+          "Transfer to resort in North Malé Atoll by speedboat or seaplane",
+          "Check-in at the resort",
+          "Begin your family holiday experience"
+        ],
+        "title": "Arrival in Maldives",
+        "day": 1
+      },
+      {
+        "title": "Beach Relaxation & Family Facilities",
+        "highlights": [
+          "Kids Playing in Maldives",
+          "Maldives Beach"
+        ],
+        "day": 2,
+        "activities": [
+          "Relax on the beach",
+          "Enjoy resort facilities",
+          "Kids Club and Teens Club activities",
+          "Kids Island Playground",
+          "Weekly entertainment programs"
+        ],
+        "destination": "Maldives",
+        "overnight": "Maldives"
+      },
+      {
+        "activities": [
+          "Dolphin spotting trip",
+          "Shark safari",
+          "Stingray safari",
+          "Turtle explorer yacht excursion",
+          "Sandbank adventure with picnic lunch",
+          "Glass bottom boat ride",
+          "Big game sports fishing",
+          "Sunset fishing",
+          "Moonlight cruise"
+        ],
+        "highlights": [
+          "Dolphin Watching",
+          "Boat Service Maldives"
+        ],
+        "overnight": "Maldives",
+        "destination": "Maldives",
+        "title": "Island Adventures & Excursions",
+        "day": 3
+      },
+      {
+        "title": "Watersports & Beach Leisure",
+        "day": 4,
+        "destination": "Maldives",
+        "activities": [
+          "Relax on the beach",
+          "Non-motorized watersports: Stand-up paddleboard, kayak, pedalos, canoe, catamaran sailing, banana boat",
+          "Motorized watersports: Tow-sport, flyboarding, knee boarding, wakeboarding, waterskiing, parasailing, jet skiing"
+        ],
+        "highlights": [
+          "Surfing in Maldives",
+          "Jet Ski"
+        ]
+      },
+      {
+        "destination": "Maldives",
+        "highlights": [
+          "Surfing",
+          "Catamaran Snorkeling"
+        ],
+        "day": 5,
+        "activities": [
+          "Swimming and beach leisure",
+          "Surfing",
+          "Scuba diving",
+          "Snorkeling with turtles",
+          "Swim with whale sharks",
+          "Luxury yacht exploration around North Malé Atoll"
+        ],
+        "title": "Ocean Exploration Day",
+        "overnight": "Maldives"
+      },
+      {
+        "title": "Relaxation & Family Spa Day",
+        "overnight": "Maldives",
+        "destination": "Maldives",
+        "highlights": [
+          "Maldives Boat",
+          "Beach Dining"
+        ],
+        "activities": [
+          "Free day to relax on the beach",
+          "Family spa treatment in the afternoon",
+          "Beachside family dining experience"
+        ],
+        "day": 6
+      },
+      {
+        "activities": [
+          "Transfer to Male International Airport by speedboat or seaplane",
+          "Departure with unforgettable family memories"
+        ],
+        "destination": "Maldives",
+        "day": 7,
+        "highlights": [
+          "Seaplane Maldives",
+          "Depart from Maldives"
+        ],
+        "title": "Departure"
+      }
+    ],
+    "type": "Multi-day",
+    "images": [
+      "https://pub-968d59474a824ac18a8b21b2b0e3f4f6.r2.dev/1767938478864-imgi_6_Sea-Plane-Maldives.jpg",
+      "https://pub-968d59474a824ac18a8b21b2b0e3f4f6.r2.dev/1767938478857-imgi_7_North-Male-Atoll.jpg",
+      "https://pub-968d59474a824ac18a8b21b2b0e3f4f6.r2.dev/1767938478853-imgi_8_Kids-Playing-In-Maldives.jpg",
+      "https://pub-968d59474a824ac18a8b21b2b0e3f4f6.r2.dev/1767938478989-imgi_9_lady-in-a-maldives-beach.jpg",
+      "https://pub-968d59474a824ac18a8b21b2b0e3f4f6.r2.dev/1767938478846-imgi_10_Dolphin-watching-in-Maldives.jpg",
+      "https://pub-968d59474a824ac18a8b21b2b0e3f4f6.r2.dev/1767938478972-imgi_11_Boat-Service-Maldives.jpg",
+      "https://pub-968d59474a824ac18a8b21b2b0e3f4f6.r2.dev/1767938478986-imgi_12_Surfing-in-Maldives.jpg",
+      "https://pub-968d59474a824ac18a8b21b2b0e3f4f6.r2.dev/1767938478867-imgi_13_Jet-Ski.jpg",
+      "https://pub-968d59474a824ac18a8b21b2b0e3f4f6.r2.dev/1767938478878-imgi_14_Surfing.jpg",
+      "https://pub-968d59474a824ac18a8b21b2b0e3f4f6.r2.dev/1767938478975-imgi_15_Catamaran-Snorkeling.jpg",
+      "https://pub-968d59474a824ac18a8b21b2b0e3f4f6.r2.dev/1767938478871-imgi_16_Realxing-In-Beach.jpg",
+      "https://pub-968d59474a824ac18a8b21b2b0e3f4f6.r2.dev/1767938478875-imgi_17_DInner.jpg",
+      "https://pub-968d59474a824ac18a8b21b2b0e3f4f6.r2.dev/1767938478956-imgi_18_Depart-from-Maldives.jpg",
+      "https://pub-968d59474a824ac18a8b21b2b0e3f4f6.r2.dev/1767938478884-imgi_37_Family-on-Maldives-Beach-480x510.jpg",
+      "https://pub-968d59474a824ac18a8b21b2b0e3f4f6.r2.dev/1767938478894-imgi_38_Sea-Plane-Maldives-238x300.jpg",
+      "https://pub-968d59474a824ac18a8b21b2b0e3f4f6.r2.dev/1767938478898-imgi_39_North-Male-Atoll-238x300.jpg",
+      "https://pub-968d59474a824ac18a8b21b2b0e3f4f6.r2.dev/1767938478890-imgi_40_Kids-Playing-In-Maldives-238x300.jpg",
+      "https://pub-968d59474a824ac18a8b21b2b0e3f4f6.r2.dev/1767938478966-imgi_41_lady-in-a-maldives-beach-238x300.jpg",
+      "https://pub-968d59474a824ac18a8b21b2b0e3f4f6.r2.dev/1767938478963-imgi_42_Dolphin-watching-in-Maldives-238x300.jpg",
+      "https://pub-968d59474a824ac18a8b21b2b0e3f4f6.r2.dev/1767938478952-imgi_43_Boat-Service-Maldives-238x300.jpg",
+      "https://pub-968d59474a824ac18a8b21b2b0e3f4f6.r2.dev/1767938478914-imgi_44_Surfing-in-Maldives-238x300.jpg",
+      "https://pub-968d59474a824ac18a8b21b2b0e3f4f6.r2.dev/1767938478980-imgi_45_Jet-Ski-238x300.jpg",
+      "https://pub-968d59474a824ac18a8b21b2b0e3f4f6.r2.dev/1767938478908-imgi_46_Surfing-238x300.jpg",
+      "https://pub-968d59474a824ac18a8b21b2b0e3f4f6.r2.dev/1767938478991-imgi_47_Catamaran-Snorkeling-238x300.jpg",
+      "https://pub-968d59474a824ac18a8b21b2b0e3f4f6.r2.dev/1767938478945-imgi_48_Realxing-In-Beach-238x300.jpg",
+      "https://pub-968d59474a824ac18a8b21b2b0e3f4f6.r2.dev/1767938478904-imgi_49_DInner-238x300.jpg",
+      "https://pub-968d59474a824ac18a8b21b2b0e3f4f6.r2.dev/1767938478969-imgi_50_Depart-from-Maldives-238x300.jpg"
+    ],
+    "exclusions": [
+      "International flights",
+      "Visa fees",
+      "Travel insurance",
+      "Personal expenses",
+      "Optional paid excursions",
+      "Tips and gratuities"
+    ],
+    "best_time_to_visit": "Year-round",
+    "resort_options": [
+      "Meeru Island Resort & Spa",
+      "Huvafen Fushi",
+      "Gili Lankanfushi Maldives",
+      "Oblu Select Sangeli"
+    ]
+  },
+  {
+    "id": "Rdpkn7qJSV79kLnup6f0",
+    "createdAt": "2026-01-09T05:22:22.714Z",
+    "itinerary": [
+      {
+        "description": "Pick-up and assistance at Male International Airport, followed by a transfer to your beach resort via speedboat or seaplane. Check in and spend the day relaxing on sandy beaches.",
+        "images": [],
+        "title": "Arrival in Maldives",
+        "day": 1
+      },
+      {
+        "description": "A free day to enjoy resort amenities or optional activities such as dolphin watching, whale shark spotting, surfing, scuba diving, and snorkeling with turtles.",
+        "day": 2,
+        "title": "Leisure & Marine Adventures",
+        "images": []
+      },
+      {
+        "title": "Floating Breakfast & Sunset Fishing",
+        "day": 3,
+        "description": "Begin your day with a unique floating breakfast. Relax during the day and enjoy a traditional Maldivian sunset fishing tour in the evening.",
+        "images": []
+      },
+      {
+        "title": "Sandbank Escape & Spa",
+        "day": 4,
+        "images": [],
+        "description": "Head to a nearby sandbank for a Robinson Crusoe experience with a local-style picnic lunch. In the evening, unwind with an exotic spa treatment at the resort."
+      },
+      {
+        "images": [],
+        "day": 5,
+        "description": "Cruise across crystal-clear waters on a private luxury yacht, followed by a once-in-a-lifetime private champagne dinner at the resort’s underwater restaurant.",
+        "title": "Private Yacht Cruise & Underwater Dinner"
+      },
+      {
+        "day": 6,
+        "description": "Enjoy the resort until your scheduled transfer by speedboat or seaplane back to Male International Airport for your onward journey.",
+        "images": [],
+        "title": "Departure"
+      }
+    ],
+    "mapUrl": "",
+    "description": "An exclusive 6-day luxury experience at Niyama Private Islands Maldives – The Crescent, featuring pristine beaches, marine adventures, private yacht cruising, spa indulgence, and a champagne dinner at an underwater restaurant. Best travel period is from November to April.",
+    "status": "Published",
+    "images": [
+      "https://pub-968d59474a824ac18a8b21b2b0e3f4f6.r2.dev/1767937749250-imgi_6_Niyama-Private-Islands.jpg",
+      "https://pub-968d59474a824ac18a8b21b2b0e3f4f6.r2.dev/1767937749200-imgi_7_Speed-Boat-Maldives.jpg",
+      "https://pub-968d59474a824ac18a8b21b2b0e3f4f6.r2.dev/1767937749219-imgi_8_Turtles-in-Maldives.jpg",
+      "https://pub-968d59474a824ac18a8b21b2b0e3f4f6.r2.dev/1767937749217-imgi_9_Relaxing-in-maldives-beach.jpg",
+      "https://pub-968d59474a824ac18a8b21b2b0e3f4f6.r2.dev/1767937749225-imgi_10_Fishing-in-Maldives.jpg",
+      "https://pub-968d59474a824ac18a8b21b2b0e3f4f6.r2.dev/1767937749233-imgi_11_Floating-Meal.jpg",
+      "https://pub-968d59474a824ac18a8b21b2b0e3f4f6.r2.dev/1767937749241-imgi_12_Jet-SKi-in-maldives.jpg",
+      "https://pub-968d59474a824ac18a8b21b2b0e3f4f6.r2.dev/1767937749255-imgi_13_Picnic-Lunch.jpg",
+      "https://pub-968d59474a824ac18a8b21b2b0e3f4f6.r2.dev/1767937749313-imgi_14_Clear-Water-In-Maldives.jpg",
+      "https://pub-968d59474a824ac18a8b21b2b0e3f4f6.r2.dev/1767937749235-imgi_15_Maldive-Boat.jpg",
+      "https://pub-968d59474a824ac18a8b21b2b0e3f4f6.r2.dev/1767937749290-imgi_16_Sea-Plane-In-Maldives.jpg",
+      "https://pub-968d59474a824ac18a8b21b2b0e3f4f6.r2.dev/1767937749248-imgi_17_Maldives-Male-Airport.jpg",
+      "https://pub-968d59474a824ac18a8b21b2b0e3f4f6.r2.dev/1767937749258-imgi_36_Bespoke-Experience-Maldives-480x510.jpg",
+      "https://pub-968d59474a824ac18a8b21b2b0e3f4f6.r2.dev/1767937749257-imgi_37_Niyama-Private-Islands-238x300.jpg",
+      "https://pub-968d59474a824ac18a8b21b2b0e3f4f6.r2.dev/1767937749315-imgi_38_Speed-Boat-Maldives-238x300.jpg",
+      "https://pub-968d59474a824ac18a8b21b2b0e3f4f6.r2.dev/1767937749252-imgi_39_Turtles-in-Maldives-238x300.jpg",
+      "https://pub-968d59474a824ac18a8b21b2b0e3f4f6.r2.dev/1767937749306-imgi_40_Relaxing-in-maldives-beach-238x300.jpg",
+      "https://pub-968d59474a824ac18a8b21b2b0e3f4f6.r2.dev/1767937749296-imgi_41_Fishing-in-Maldives-238x300.jpg",
+      "https://pub-968d59474a824ac18a8b21b2b0e3f4f6.r2.dev/1767937749238-imgi_42_Floating-Meal-238x300.jpg",
+      "https://pub-968d59474a824ac18a8b21b2b0e3f4f6.r2.dev/1767937749270-imgi_43_Jet-SKi-in-maldives-238x300.jpg",
+      "https://pub-968d59474a824ac18a8b21b2b0e3f4f6.r2.dev/1767937749246-imgi_44_Picnic-Lunch-238x300.jpg",
+      "https://pub-968d59474a824ac18a8b21b2b0e3f4f6.r2.dev/1767937749310-imgi_45_Clear-Water-In-Maldives-238x300.jpg",
+      "https://pub-968d59474a824ac18a8b21b2b0e3f4f6.r2.dev/1767937749317-imgi_46_Maldive-Boat-238x300.jpg",
+      "https://pub-968d59474a824ac18a8b21b2b0e3f4f6.r2.dev/1767937749299-imgi_47_Sea-Plane-In-Maldives-238x300.jpg",
+      "https://pub-968d59474a824ac18a8b21b2b0e3f4f6.r2.dev/1767937749322-imgi_48_Maldives-Male-Airport-238x300.jpg"
+    ],
+    "price": "On Request",
+    "inclusions": [
+      "Airport pick-up and drop-off",
+      "Luxury resort accommodation",
+      "Daily breakfast",
+      "Selected excursions and experiences",
+      "Private yacht cruise",
+      "Underwater restaurant dinner"
+    ],
+    "type": "Multi-day",
+    "location": "Maldives",
+    "coverImage": "https://pub-968d59474a824ac18a8b21b2b0e3f4f6.r2.dev/1767937739998-imgi_6_Niyama-Private-Islands.jpg",
+    "exclusions": [
+      "International flights",
+      "Visa fees",
+      "Personal expenses",
+      "Travel insurance",
+      "Tips and gratuities"
+    ],
+    "duration": "6 Days",
+    "name": "06 Days Bespoke Experience In Maldives"
+  },
+  {
+    "id": "jvujthBj1xvucDEQ8n0E",
+    "itinerary": [
+      {
+        "title": "Airport – Negombo Chilaw",
+        "day": 1,
+        "images": [],
+        "description": "Arrive at the Bandaranayke International Airport and transfer to your Beach Hotel in Negombo. In the late afternoon visit the MUNNESWARAM TEMPLE in Chilaw. Visit MANAVARI. Overnight at the Camelot Beach Hotel, Negombo."
+      },
+      {
+        "description": "After breakfast leave for Sigiriya. On the way visit Dolukanda Sanjeewani Mountain. Proceed to Sigiriya, also known as Lion Rock. Sigiriya is also a place related to the Ramayana. Overnight at the Kassapa Lions Rock Hotel, Sigiria.",
+        "title": "Negombo – Dolukanda – Sigiriya",
+        "images": [],
+        "day": 2
+      },
+      {
+        "description": "In the morning proceed to Trincomalee. Trincomalee holds a significant role in the religious and cultural history of Sri Lanka as it is home to the historical Thirukoneswaram Temple. Overnight at the Kassapa Lions Rock Hotel, Sigiriya.",
+        "images": [],
+        "day": 3,
+        "title": "Sigiriya – Trincomalee – Sigiriya"
+      },
+      {
+        "day": 4,
+        "title": "Sigiriya – Sita Kotuwa – Kandy",
+        "images": [],
+        "description": "After breakfast leave for Kandy. On the way, we stop for a visit to Sita Kotuwa. Once in Kandy you have the option to visit the Temple of the Tooth Relic. Overnight at Suisse Hotel, Kandy."
+      },
+      {
+        "images": [],
+        "description": "In the morning leave for Ramboda. En route visit the Hanuman Temple. Proceed to Nuwara Eliya. Visit the Seetha Amman Temple and Hakgala Botanical Garden. Later leave for Ella. Overnight at Morning Dew Hotel Hotel, Ella.",
+        "day": 5,
+        "title": "Kandy – Ramboda – Seetha Amman Temple – Hakgala Botanical Garden – Seetha Eliya – Ella"
+      },
+      {
+        "images": [],
+        "description": "Ella is a small picturesque mountain village and known for the Ravana Falls & Ravana Cave. Leave for Kataragama on the South Coast. On arrival visit the Kataragama Temple. Overnight at the Hibiscus Garden Hotel, Tissa.",
+        "title": "Ella – Kataragama",
+        "day": 6
+      },
+      {
+        "title": "Yala – Ussangoda – Rumansala (Unawatuna) – Colombo",
+        "description": "Breakfast at the hotel. Visit Ussangoda. Next, you will be visiting Rumansala. Atop the hill, there is a large glistening Buddhist dagoba popularly known as the peace pagoda. Overnight at the Pegasus Reef Hotel, Colombo.",
+        "day": 7,
+        "images": []
+      },
+      {
+        "description": "Among the most important and closest sites to Colombo connected to the Ramayana is the Kelani Raja Maha Viharaya or the Kelaniya Temple. Later transfer back to the airport for departure. End of Sri Lanka Ramayana Tour Package.",
+        "day": 8,
+        "images": [],
+        "title": "Colombo – Kelaniya Temple – Airport"
+      }
+    ],
+    "location": "Negombo",
+    "images": [
+      "https://pub-968d59474a824ac18a8b21b2b0e3f4f6.r2.dev/1767707894876-Kelaniya-Temple.jpg",
+      "https://pub-968d59474a824ac18a8b21b2b0e3f4f6.r2.dev/1767707894890-Munneswaram-Temple.jpg",
+      "https://pub-968d59474a824ac18a8b21b2b0e3f4f6.r2.dev/1767707894886-Negombo-Beach.jpg",
+      "https://pub-968d59474a824ac18a8b21b2b0e3f4f6.r2.dev/1767707894895-ramayana.jpg",
+      "https://pub-968d59474a824ac18a8b21b2b0e3f4f6.r2.dev/1767707894882-Ravana-Falls.jpg",
+      "https://pub-968d59474a824ac18a8b21b2b0e3f4f6.r2.dev/1767707894892-Seetha-Amman-Temple.jpg",
+      "https://pub-968d59474a824ac18a8b21b2b0e3f4f6.r2.dev/1767707894896-sigiriya-1.jpg",
+      "https://pub-968d59474a824ac18a8b21b2b0e3f4f6.r2.dev/1767707894898-Thirukoneswaram-Temple.jpg"
+    ],
+    "status": "Published",
+    "exclusions": [
+      "Flights",
+      "Tips"
+    ],
+    "coverImage": "https://pub-968d59474a824ac18a8b21b2b0e3f4f6.r2.dev/1767707887923-Kelaniya-Temple.jpg",
+    "inclusions": [
+      "*Class Hotels",
+      "Vegetarian / Non-Vegetarian",
+      "A/C / Mini Van",
+      "Chauffeur Guide",
+      "Fully Customizable"
+    ],
+    "mapUrl": "",
+    "price": "$450",
+    "duration": "8 Days",
+    "description": "This Sri Lanka Ramayana Tour Package brings you to the roots of the ancient great Indian epic The Ramayana – with the best of Sri Lanka’s rich Ramayana heritage.",
+    "createdAt": "2026-01-06T13:56:25.784Z",
+    "name": "Sri Lanka Ramayana Tour Package 8 Days",
+    "type": "Multi-day"
+  },
+  {
+    "id": "7DJ3Bh7h9Y6IjzCbltEJ",
+    "itinerary": [
+      {
+        "day": 1,
+        "images": [],
+        "description": "Arrive at the Bandaranayake International Airport and transfer to the first hotel in Negombo. In the afternoon go on a boat ride tour through the Dutch canal. The boat ride/safari that takes you along the old Dutch canal which runs through Waikkal, gives you snapshots of birdlife. Overnight at the Goldi Sands Hotel, Negombo",
+        "title": "Airport – Negombo"
+      },
+      {
+        "day": 2,
+        "title": "Negombo – Colombo – Negombo",
+        "description": "After breakfast leave for Colombo. Visit the Dutch Hospital and Dutch Church. Built as a hospital by the Dutch, it has been used for several different purposes, over the years. The Dutch word Wolvendaal means the ‘Dale of Wolves’ and it relates to an area outside the Fort of Colombo in Sri Lanka. Overnight at the Goldi Sands Hotel, Negombo",
+        "images": []
+      },
+      {
+        "day": 3,
+        "title": "Negombo – Wilpattu – Mannar",
+        "description": "After breakfast leave for Mannar. On the way visit the Wilpattu National Park. Wilpattu National Park (Willu-pattu; Land of Lakes) is a park located on the island of Sri Lanka. The unique feature of this park is the existence of “Willus” (Natural lakes). Proceed to Mannar. Overnight at the Palmyrah House, Mannar",
+        "images": []
+      },
+      {
+        "description": "Breakfast at the hotel. Today you will be visiting the Mannar Fort. The fort was built by the Portuguese in 1560, they surrendered to the Dutch on 22 February 1658, and the fort was rebuilt by them in 1686. Overnight at the Palmyrah House, Mannar",
+        "images": [],
+        "title": "Mannar",
+        "day": 4
+      },
+      {
+        "day": 5,
+        "description": "After breakfast leave for Jaffna. Visit the Jaffna Fort. The Portuguese built in 1560 the fortress of Nossa Senhora dos Milagres. Jaffna was the last place in Portuguese hands in Ceylon, they lost it in 1658. Overnight at the North Gate Hotel, Jaffna",
+        "title": "Mannar – Jaffna",
+        "images": []
+      },
+      {
+        "images": [],
+        "day": 6,
+        "description": "Breakfast at the hotel. Visit the Fort Hammenhiel. Standing on a rock at the entrance to Jaffa lagoon and surrounded on all sides by the sea. Overnight at the North Gate Hotel, Jaffna",
+        "title": "Jaffna"
+      },
+      {
+        "day": 7,
+        "images": [],
+        "description": "After breakfast leave for Trincomalee. You will visit Fort Fredrick, also known as Trincomalee Fort or Fort of Triquillimale, is a fort built by Portuguese colonials at Trincomalee. Overnight at the Trinco Blu Hotel, Trincomalee",
+        "title": "Jaffna – Trincomalee"
+      },
+      {
+        "day": 8,
+        "title": "Trincomalee",
+        "description": "After breakfast leave for Pigeon Island. Pigeon Island National Park is one of the two marine national parks of Sri Lanka. The national park is situated 1 km off the coast of Nilaveli. Overnight at the Trinco Blu Hotel, Trincomalee",
+        "images": []
+      },
+      {
+        "images": [],
+        "day": 9,
+        "title": "Trincomalee – Polonnaruwa – Hiriwaduna – Sigiriya",
+        "description": "After breakfast leave for Sigiriya. On the way visit the Polonnaruwa Heritage City. Next visit a traditional local village. Hiriwaduna is just 02 Km (05 minutes – drive from Sigiriya. Overnight at the Kassapa Lions Rock Hotel, Sigiriya"
+      },
+      {
+        "description": "In the morning climb the UNESCO World Heritage site Sigiriya Rock, part of Sri Lanka’s ‘Cultural Triangle’. Sigiriya (sometimes called Lion’s Rock) is the ruins of an ancient palace in a 200m high rock fortress. Overnight at the Kassapa Lions Rock Hotel, Sigiriya",
+        "title": "Sigiriya",
+        "day": 10,
+        "images": []
+      },
+      {
+        "day": 11,
+        "images": [],
+        "title": "Sigiriya – Matale – Kandy",
+        "description": "After breakfast leave for Kandy. On the way visit the Spice Garden in Matale. Visit the Temple of the Tooth Relic in Kandy. Overnight at the Suisse Hotel, Kandy"
+      },
+      {
+        "description": "The train journey from Kandy to Ella is the most beautiful train ride in Sri Lanka, if not in the world! Board the train and experience breathtaking views of lush green tea plantations, mountains, viaducts, valleys, and dense jungle. Overnight at the morning Dew Hotel, Ella",
+        "day": 12,
+        "images": [],
+        "title": "Scenic Train Ride Kandy – Ella"
+      },
+      {
+        "day": 13,
+        "title": "Ella",
+        "description": "Breakfast at the hotel. Today you will go sightseeing in Ella. Visit the Little Adam’s Peak & Nine Arches Bridge. Overnight at the morning Dew Hotel, Ella",
+        "images": []
+      },
+      {
+        "description": "After breakfast leave for Yala. On the way visit the Ravana Waterfall. Visit the Yala National Park. Yala National Park is famously known for its highest concentration of leopards in the world. Overnight at the Hibiscus Garden Hotel, Tissa",
+        "day": 14,
+        "title": "Ella Yala National Park",
+        "images": []
+      },
+      {
+        "title": "Yala – Dondra – Matara – Thalpe",
+        "day": 15,
+        "images": [],
+        "description": "After breakfast leave for Thalpe. On the way visit the Dondra Head Lighthouse and Matara Fort. After the Matara rebellion in 1761-1762, a beautiful fort called redoubt “Van Eck” was built in 1763-1765. Overnight at the Apa Villa, Thalpe"
+      },
+      {
+        "description": "After breakfast visit the Galle Fort. Galle is a bustling provincial capital and administrative center for the South. Once a port, Galle was Sri Lanka’s first international commerce and trade center. Overnight at the Apa Villa, Thalpe",
+        "images": [],
+        "day": 16,
+        "title": "Thalpe – Galle – Thalpe"
+      },
+      {
+        "title": "Thalpe",
+        "images": [],
+        "description": "Breakfast at the hotel. Day to relax on the beach or to explore the nearby village. Overnight at the Apa Villa, Thalpe",
+        "day": 17
+      },
+      {
+        "day": 18,
+        "description": "After breakfast transfer back to the airport. End of Dutch Heritage Sri Lanka Tour.",
+        "images": [],
+        "title": "Thalpe Airport"
+      }
+    ],
+    "location": "Negombo",
+    "images": [
+      "https://pub-968d59474a824ac18a8b21b2b0e3f4f6.r2.dev/1767707184683-ceylon-tea.jpg",
+      "https://pub-968d59474a824ac18a8b21b2b0e3f4f6.r2.dev/1767707184665-ella-train.jpg",
+      "https://pub-968d59474a824ac18a8b21b2b0e3f4f6.r2.dev/1767707184677-galle.jpg",
+      "https://pub-968d59474a824ac18a8b21b2b0e3f4f6.r2.dev/1767707184670-leopard-yala.jpg",
+      "https://pub-968d59474a824ac18a8b21b2b0e3f4f6.r2.dev/1767707184674-sigiriya-1.jpg",
+      "https://pub-968d59474a824ac18a8b21b2b0e3f4f6.r2.dev/1767707184688-stilt-fishing-weligama-1.jpg",
+      "https://pub-968d59474a824ac18a8b21b2b0e3f4f6.r2.dev/1767707184686-Thirukoneswaram-Temple.jpg",
+      "https://pub-968d59474a824ac18a8b21b2b0e3f4f6.r2.dev/1767707184691-top-beaches.jpg"
+    ],
+    "status": "Published",
+    "coverImage": "https://pub-968d59474a824ac18a8b21b2b0e3f4f6.r2.dev/1767707176490-leopard-yala.jpg",
+    "exclusions": [
+      "Flights",
+      "Tips"
+    ],
+    "inclusions": [
+      "18 Days Private Guided Sri Lanka Tour",
+      "UNESCO Heritage Sites",
+      "Scenic Train Journey",
+      "Private Transportation",
+      "Chauffeur Guide",
+      "Dolphin/Whale Watching",
+      "24/7 Customer Hotline"
+    ],
+    "mapUrl": "",
+    "price": "$1400",
+    "duration": "18 Days",
+    "description": "This Special Dutch Heritage Sri Lanka Tour includes the West, South, East and North Coast and focuses on the iconic Dutch Heritage that can be seen in 300-year-old forts along the coast, in the churches, forts and homes of Galle, a remarkably preserved UNESCO World Heritage Site built entirely within walls and ramparts, and in the magnificent public buildings, churches and private houses in many of the coastal areas.",
+    "createdAt": "2026-01-06T13:46:00.355Z",
+    "name": "DUTCH HERITAGE SRI LANKA TOUR 18 Days",
+    "type": "Multi-day"
+  },
+  {
+    "id": "VTAtfqnQarAIZNCx4AK4",
+    "mapUrl": "",
+    "duration": "10 Days",
+    "location": "Negombo",
+    "createdAt": "2026-01-06T13:39:52.982Z",
+    "exclusions": [
+      "Flights",
+      "Tips"
+    ],
+    "itinerary": [
+      {
+        "title": "Airport – Negombo – Dutch Canal – Waikkal",
+        "images": [],
+        "description": "Arrival at the Bandaranayke International Airport. After you’ve checked into your first hotel in Negombo, it’s time to go on a boat ride on the Colonial Dutch Canal. The boat ride/safari that takes you along the old canal which runs through Waikkal, providing you with the opportunity to see tropical birds close up. Overnight at Camelot Beach Hotel, Negombo",
+        "day": 1
+      },
+      {
+        "day": 2,
+        "images": [],
+        "title": "Negombo – Elephant Orphanage – Local Village Experience – Sigiriya",
+        "description": "After breakfast leave for Negombo Sigiriya. On the way visit the Pinnawala Elephant Orphanage. Afterward, experience the traditional village life of Hiriwaduna. Trek through the typical Sri Lankan village, an awesome walk along a bund of a Wewa or manmade reservoir. Proceed to Sigiriya. Overnight at Kassapa Lions Rock, Sigiriya"
+      },
+      {
+        "description": "After breakfast at the hotel, climb the UNESCO World Heritage Site Sigiriya Rock, a part of Sri Lanka’s ‘Cultural Triangle’. On top of the Sigiriya Rock are the ruins of an ancient palace/rock fortress. Leave for Kandy, Sri Lanka’s Cultural Capital. On the way visit the Spice Garden in Matale. Visit the Temple of the Tooth Relic in Kandy. Overnight at Topaz Hotel, Kandy",
+        "images": [],
+        "title": "Sigiriya – Ayrvedic Spice Garden – Temple of the Tooth – Kandy",
+        "day": 3
+      },
+      {
+        "day": 4,
+        "title": "Kandy – Botanical Garden – Tea Plantations – Nuwara Eliya",
+        "images": [],
+        "description": "Breakfast at the hotel. Explore the Peradeniya Botanical Garden. Botanical Garden in Peradeniya is Sri Lanka’s largest garden. Leave for Nuwara Eliya. No visit to the hill country is complete without a visit to a tea estate. Overnight at Heaven Seven Hotel, Nuwara Eliya"
+      },
+      {
+        "description": "After breakfast leave for Yala National Park. On the way visit the Ravana Waterfall. Visit the Yala National Park, famously known for its highest concentration of leopards in the world. Overnight at Hibiscus Garden Hotel, Yala",
+        "title": "Nuwara Eliya – Ella Wildlife Sanctuary – Yala National park – Tissahamarana",
+        "day": 5,
+        "images": []
+      },
+      {
+        "description": "On the way to Hikkaduwa we stop first at Weligama. Next, you will be visiting the Galle Fort. Hikkaduwa is a former fishing village in the southwest part of Sri Lanka. The Hikkaduwa Coral Reef is located just off the Coral Sands Hotel. Overnight at Coral Sands Hotel, Hikkaduwa",
+        "title": "Tissahamarana – Weligama – Galle Fort – Hikkaduwa",
+        "day": 6,
+        "images": []
+      },
+      {
+        "day": 7,
+        "description": "In the morning leave for your flight to the Maldives. A short speed boat transfer will get you to the 5* Paradise Island Villa Resort. Imagine a secluded island with bright white beaches, a lagoon awash in deep blues and aquamarines, and soaring coconut palms swaying in the breeze. Overnight at the 5* Paradise Island Villa Resort",
+        "title": "Maldives – Paradise Island",
+        "images": []
+      },
+      {
+        "day": 8,
+        "images": [],
+        "title": "Maldives – Paradise Island",
+        "description": "Free time to enjoy the island paradise. Overnight at the 5* Paradise Island Villa Resort"
+      },
+      {
+        "day": 9,
+        "images": [],
+        "description": "Free time to enjoy the island paradise. Overnight at the 5* Paradise Island Villa Resort",
+        "title": "Maldives – Paradise Island"
+      },
+      {
+        "description": "Free time to enjoy the island paradise. Overnight at the 5* Paradise Island Villa Resort",
+        "day": 10,
+        "title": "Maldives – Paradise Island",
+        "images": []
+      }
+    ],
+    "name": "Sri Lanka Maldives Holiday Package 10 Days",
+    "images": [
+      "https://pub-968d59474a824ac18a8b21b2b0e3f4f6.r2.dev/1767706891727-b2b-hotels-400x284.jpg",
+      "https://pub-968d59474a824ac18a8b21b2b0e3f4f6.r2.dev/1767706891730-ceylon-tea.jpg",
+      "https://pub-968d59474a824ac18a8b21b2b0e3f4f6.r2.dev/1767706891713-galle-lighthouse.jpg",
+      "https://pub-968d59474a824ac18a8b21b2b0e3f4f6.r2.dev/1767706891668-honeymoon.jpg",
+      "https://pub-968d59474a824ac18a8b21b2b0e3f4f6.r2.dev/1767706891723-leopard-yala.jpg",
+      "https://pub-968d59474a824ac18a8b21b2b0e3f4f6.r2.dev/1767706891732-Pinnawala.jpg",
+      "https://pub-968d59474a824ac18a8b21b2b0e3f4f6.r2.dev/1767706891718-snorkelling-sri-lanka.jpg",
+      "https://pub-968d59474a824ac18a8b21b2b0e3f4f6.r2.dev/1767706891705-stilt-fishing-weligama-1.jpg"
+    ],
+    "type": "Multi-day",
+    "price": "$1145",
+    "inclusions": [
+      "Hand-Picked Hotels",
+      "Speed Boat Transfer",
+      "A/C Limousine / Mini Van",
+      "Chauffeur Guide",
+      "Excursions as described"
+    ],
+    "coverImage": "https://pub-968d59474a824ac18a8b21b2b0e3f4f6.r2.dev/1767706831648-Pinnawala.jpg",
+    "status": "Published",
+    "description": "Fancy exploring the beautiful sights of Sri Lanka combined with snorkeling in the warm paradise waters of the Maldives? Then our multi-center Sri Lanka Maldives Holiday Package is the perfect holiday choice for you. Experience the charm and culture of Sri Lanka followed by a dreamy island escape."
+  },
+  {
+    "id": "JvXz8PkbxRm7zSwkndEL",
+    "exclusions": [
+      "Flights",
+      "Tips"
+    ],
+    "coverImage": "https://pub-968d59474a824ac18a8b21b2b0e3f4f6.r2.dev/1767706144350-sigiriya-1.jpg",
+    "createdAt": "2026-01-06T13:26:09.535Z",
+    "location": "Negombo",
+    "type": "Multi-day",
+    "itinerary": [
+      {
+        "title": "Airport – Negombo",
+        "description": "Arrive at the Bandaranayke International Airport and transfer in one of our customized wheelchair-accessible Mini-Vans to your first hotel in Negombo. Negombo is famous for its beach, the Dutch Heritage Sites, and, of course, fresh seafood. Acclimatize & relax at the beach restaurant or swimming pool. Depending on your arrival time, we can also arrange for a special ‘open air’ sightseeing tour of Negombo in a specially modified Tuk-Tuk (local three-wheeler). Overnight at the Goldi Sands Hotel, Negombo.",
+        "images": [],
+        "day": 1
+      },
+      {
+        "title": "Negombo – Dutch Canal – Waikkal",
+        "day": 2,
+        "description": "After breakfast embark on a boat ride on the Colonial Dutch Canal. The boat ride/safari takes you along the old canal which runs through Waikkal, providing you with the opportunity to see tropical birds close up; waders, stunning kingfishers, rare pied kingfishers, bee-eaters, Brahminy kites, etc. Water monitors, bearing an uncanny resemblance to crocodiles, are also bound to make an appearance, so keep your eye out for a glimpse! If you like, you can prolong your boat journey by following the canal into the Indian Ocean, where you continue to travel onwards to Negombo town. Overnight at the Goldi Sands Hotel, Negombo.",
+        "images": []
+      },
+      {
+        "day": 3,
+        "title": "Negombo – Elephant Orphanage – Sigiriya",
+        "images": [],
+        "description": "After breakfast leave Negombo for Sigiriya. On the way visit the Pinnawala Elephant Orphanage, established in 1975 to shelter and care for wounded elephants and abandoned baby elephants found in the jungle. The main daily activities within the Pinnawala Elephant Orphanage are feeding milk to baby elephants and bathing sessions. The Elephant Orphanage is wheelchair-accessible. On the way to Sigiriya, you can watch the traditional village life and bountiful nature passing by. Overnight at the Kassapa Lions Rock Hotel, Sigiriya."
+      },
+      {
+        "images": [],
+        "day": 4,
+        "title": "Sigiriya Rock Fortress",
+        "description": "The UNESCO World Heritage Site Sigiriya Rock, is a part of Sri Lanka’s ‘Cultural Triangle. Sigiriya Rock is not wheelchair accessible but you can book a 6 am accessible Hot-Air Balloon Ride (1 hour) or we'll arrange a specially modified Tuk-Tuk to drive you to the scenic viewpoints surrounding Sigiriya. After lunch, enjoy an afternoon jeep safari in the Minneriya National Park, where you can see wild Asian elephants. Overnight at the Kassapa Lions Rock Hotel, Sigiriya."
+      },
+      {
+        "title": "Sigiriya – Ayrvedic Spice Garden – Temple of the Tooth – Kandy",
+        "day": 5,
+        "images": [],
+        "description": "Leave in the morning for Kandy, Sri Lanka’s Cultural Capital. On the way visit the Spice Garden in Matale. Proceed to Kandy. Visit the Temple of the Tooth Relic in Kandy. The temple is wheelchair accessible and buggy car services are also available on request. Overnight at Suisse Hotel, Kandy."
+      },
+      {
+        "description": "Breakfast at the hotel. Explore the Peradeniya Botanical Garden. Botanical Garden in Peradeniya is Sri Lanka’s largest garden. In the evening visit a Cultural Show. Believed to be originally performed by Indian shamans who came to the island many centuries ago, Kandyan dancing is a celebration of the rich traditions of Sri Lankan culture. Overnight at Suisse Hotel, Kandy.",
+        "title": "Kandy – Botanical Garden – Cultural Show",
+        "day": 6,
+        "images": []
+      },
+      {
+        "day": 7,
+        "title": "Kandy – Tea Plantations – Nuwara Eliya",
+        "description": "No visit to the hill country is complete without a visit to a tea estate, where you can view the vibrant green fields of tea. Nuwara Eliya is situated at around 2000m above sea level and surrounded by lush tea plantations. Some of the finest teas in the world are produced here, and a visit to a tea factory and a tea plantation is a must. Overnight at Araliya Red Hotel, Nuwara Eliya.",
+        "images": []
+      },
+      {
+        "images": [],
+        "description": "After breakfast leave for Udawalawe National Park. On the way visit the Ravana Waterfall. Proceed to Udawalawe. Jeep Safari at the Udawalawe National Park. It is largely inhabited by elephants, spotted deer, sambhur, water buffaloes, mongoose, bandicoots, foxes, water monitor lizards, crocodiles, wild boars, Toque Monkeys, Grey Langur, leopards and 30 varieties of snakes. Overnight at The Grand Udawalawe Hotel.",
+        "day": 8,
+        "title": "Nuwara Eliya – Ella Wildlife Sanctuary – Udawalawe National Park"
+      },
+      {
+        "title": "Udawalawe National Park – Tangalle Lagoon – Mirrissa",
+        "images": [],
+        "day": 9,
+        "description": "The Tangalle Lagoon is a haven for a myriad of birdlife and marine life. One of the best ways to explore the Tangalle Lagoon; especially at your own pace is by embarking on a kayaking or canoeing excursion along the gentle, emerald waters. On the way to Mirissa Beach, we stop at the Turtle Hatchery in Rekawa. Overnight at Paradise Beach Club, Mirissa."
+      },
+      {
+        "title": "Mirissa – Surf Beach – Hikkaduwa",
+        "images": [],
+        "day": 10,
+        "description": "Located on Sri Lanka’s picturesque South Coast, Mirissa still offers the charm of an idyllic fishing village. Enjoy walks along uncrowded beaches, still untouched by mass tourism. Especially surfing. If you are up for it, catch some waves in the easy shore breaks with a local pro as coach. Next, you will be visiting the Galle Fort. Overnight at Paradise Beach Club, Mirissa."
+      },
+      {
+        "title": "Mirissa – Airport – or Extention",
+        "description": "End of the Accessible Sri Lanka Tour. Depending on your travel plans, you can extend your stay with our Special Ayurveda Package or one of our other Sri Lanka Tour Packages, or be driven back to the airport.",
+        "images": [],
+        "day": 11
+      }
+    ],
+    "mapUrl": "",
+    "price": "$650",
+    "description": "Bespoke Itinerary with selected differently abled-friendly attractions & activities. We at Sri Holidays are passionately committed to providing accessible holidays that exceed the needs and wishes of your differently-abled customers.",
+    "status": "Published",
+    "name": "Barrier-Free Sri Lanka Tour 11 Days",
+    "duration": "11 Days",
+    "inclusions": [
+      "Barrier-Free Hotels",
+      "A/C / Mini Van",
+      "Chauffeur Guide",
+      "Wheelchair-accessible Transfers"
+    ],
+    "images": [
+      "https://pub-968d59474a824ac18a8b21b2b0e3f4f6.r2.dev/1767706156264-ceylon-tea.jpg",
+      "https://pub-968d59474a824ac18a8b21b2b0e3f4f6.r2.dev/1767706156250-hot-air-balloon-1.jpg",
+      "https://pub-968d59474a824ac18a8b21b2b0e3f4f6.r2.dev/1767706156246-leopard-yala.jpg",
+      "https://pub-968d59474a824ac18a8b21b2b0e3f4f6.r2.dev/1767706156255-limited-mobility.jpg",
+      "https://pub-968d59474a824ac18a8b21b2b0e3f4f6.r2.dev/1767706156241-Negombo-Beach.jpg",
+      "https://pub-968d59474a824ac18a8b21b2b0e3f4f6.r2.dev/1767706156260-Pinnawala.jpg",
+      "https://pub-968d59474a824ac18a8b21b2b0e3f4f6.r2.dev/1767706156257-sigiriya-1.jpg",
+      "https://pub-968d59474a824ac18a8b21b2b0e3f4f6.r2.dev/1767706156262-travelers-with-physical-disability.jpg"
+    ]
+  },
+  {
+    "id": "OisWC8x7gNLmjlWOUO4v",
+    "images": [
+      "https://pub-968d59474a824ac18a8b21b2b0e3f4f6.r2.dev/1767708914003-sigiriya-lionrock.jpg",
+      "https://pub-968d59474a824ac18a8b21b2b0e3f4f6.r2.dev/1767708946638-98-Acres.jpg",
+      "https://pub-968d59474a824ac18a8b21b2b0e3f4f6.r2.dev/1767708946629-hot-air-balloon.jpg",
+      "https://pub-968d59474a824ac18a8b21b2b0e3f4f6.r2.dev/1767708946635-kandy-deluxe.jpg",
+      "https://pub-968d59474a824ac18a8b21b2b0e3f4f6.r2.dev/1767708946643-tangalle.jpg",
+      "https://pub-968d59474a824ac18a8b21b2b0e3f4f6.r2.dev/1767708946605-Wallawwa.jpg",
+      "https://pub-968d59474a824ac18a8b21b2b0e3f4f6.r2.dev/1767708973863-ella-train.jpg",
+      "https://pub-968d59474a824ac18a8b21b2b0e3f4f6.r2.dev/1767708979914-stilt-fishing-weligama-1.jpg"
+    ],
+    "itinerary": [
+      {
+        "title": "Airport – Colombo",
+        "description": "Your driver will meet you at the airport or your hotel and continue to Colombo City. Depending on your time of arrival/pick-up you will enjoy a Colombo sightseeing tour (optional) or proceed directly to your hotel. Overnight at a 3* Hotel in Colombo.",
+        "day": 1,
+        "images": []
+      },
+      {
+        "title": "Colombo – Train Ride – Kandy",
+        "day": 2,
+        "description": "After breakfast, you will be picked you up from your hotel and proceed to the Colombo Fort train station from where your journey by train to Kandy begins. This train ride will take you by the famous Muthurajawela marshland, through villages and vast paddy fields. Once in Kandy, our driver who will await you at the railway station takes you to your hotel for a relaxing afternoon. Overnight at a 3* Hotel in Kandy.",
+        "images": []
+      },
+      {
+        "images": [],
+        "day": 3,
+        "description": "In the morning you will visit Elephant Orphanage in Pinawella to watch around 80 elephants in their natural environments. Here you can feed the baby elephants from the milk bottle or even walk with them to their bath in the nearby river. After lunch is time to explore the beauty of this Buddhist capital city with its famous and most important Temple of The Tooth, Peradeniya botanical garden, bazaars, batik factories, and gem museums. Overnight at a 3* Hotel in Kandy.",
+        "title": "Kandy – Elephant Orphanage – Temple of the Tooth"
+      },
+      {
+        "images": [],
+        "title": "Kandy – Sigiriya – Dambulla – Kandy",
+        "description": "After breakfast, you will proceed to Sigiriya by car to visit the Sigiriya, the ruins of an ancient palace in a 200m high rock fortress, overlooking the beautiful plains of North-Central Sri Lanka. After the climb and perhaps a short elephant ride through the jungle around the rock you will visit another gem of Sri Lanka`s heritage, The Golden Temple in Dambulla which is the largest and best-preserved cave temple complex in Sri Lanka spread over 5 caves with a total of 153 statues of Buddha. Overnight at a 3* Hotel in Kandy.",
+        "day": 4
+      },
+      {
+        "images": [],
+        "title": "Kandy – Train Ride – Ella",
+        "description": "The train journey from Kandy to Ella is the most beautiful train ride in Sri Lanka, if not in the world! Board the train and experience breathtaking views of lush green tea plantations, mountains, viaducts, valleys, and dense jungle. The route takes you through tea plantations, jungles, and mountains. As the journey goes on, you move into the lush green highlands, dotted with tea plantations, beautiful hilltop villages, and waterfalls. Overnight at a 3* Hotel in Ella.",
+        "day": 5
+      },
+      {
+        "title": "Ella – end of train tour",
+        "day": 6,
+        "description": "Ella is a small village located among the peaks of Sri Lanka’s central highlands. This sleepy village is nestled in a valley peering straight through the Ella Gap to the plain nearly 1000m below and across to the coastline. Depending on your travel plans, you can extend your stay with a tailor-made Beach Extension, continue with one of our other Sri Lanka Tour Packages.",
+        "images": []
+      }
+    ],
+    "inclusions": [
+      "Transport",
+      "Hotels",
+      "Breakfast",
+      "Train tickets"
+    ],
+    "name": "Sri Lanka’s Most Scenic Train Ride",
+    "duration": "6 Days",
+    "createdAt": "2026-01-06T06:25:51.587Z",
+    "description": "In the heart of Sri Lanka, you’ll find one of the world’s most scenic train trips. The train from Kandy to Ella is a beautiful 7-hour ride through lush tea plantations, rolling rice fields, and endless mountain views. Incredibly, it’s also one of the world’s best travel bargains.",
+    "location": "Sri Lanka",
+    "price": "$499",
+    "exclusions": [
+      "Flights",
+      "Tips",
+      "Optional Tours"
+    ],
+    "coverImage": "https://pub-968d59474a824ac18a8b21b2b0e3f4f6.r2.dev/1767708890785-ella-train.jpg",
+    "type": "Multi-day",
+    "mapUrl": "",
+    "status": "Published"
+  },
+  {
+    "id": "S8byjIKgOjoJNnEdvnWD",
+    "createdAt": "2026-01-06T06:13:47.033Z",
+    "itinerary": [
+      {
+        "title": "Airport – Negombo – Dutch Canal – Waikkal",
+        "day": 1,
+        "images": [],
+        "description": "Arrival at the Bandaranayke International Airport. After you’ve checked into your first hotel in Negombo, it’s time to go on a boat ride on the Colonial Dutch Canal. The boat ride/safari that takes you along the old canal which runs through Waikkal, providing you with the opportunity to see tropical birds close up; waders, stunning kingfishers, rare pied kingfishers, bee-eaters, Brahminy kites, etc. Water monitors, bearing an uncanny resemblance to crocodiles, are also bound to make an appearance, so keep your eye out for a glimpse! If you like, you can prolong your boat journey by following the canal into the Indian Ocean, where you continue to travel onwards to Negombo town."
+      },
+      {
+        "description": "After breakfast leave for Negombo Sigiriya. On the way visit the Pinnawala Elephant Orphanage, established in 1975 to shelter and care for wounded elephants and abandoned baby elephants found in the jungle. The main daily activities within the Pinnawala Elephant Orphanage are feeding milk to baby elephants and bathing sessions.\n\nAfterward, experience the traditional village life of Hiriwaduna. Trek through the typical Sri Lankan village, an awesome walk along a bund of a Wewa or manmade reservoir. The reservoir itself, the surrounding scrub jungle, marshland, and village are a hive of early morning or evening activity. The amazing birdlife, butterflies, and possible sightings of crocodiles only add to the charm of seeing the villagers as they go about their tasks of fishing, or washing clothes at the periphery of the lake. Initially one wades through a shallow stream and thereafter crosses a wider tributary in a catamaran of a local farmer to inspect Chena cultivation. Under the guidance of the farmer, pick some fresh vegetables from the plot and join in the preparation of a simple meal, prepared in the traditional method using earthenware pots and firewood as fuel. This is a great opportunity to sample authentic local cuisine. The journey continues through dense shrub forests, home to many forest birds and other wildlife including monkeys, bears, pythons, and even elephants. In Hiriwaduna you can embark on a bicycle-, oxcart- or boat trip. Proceed to Sigiriya.",
+        "images": [],
+        "title": "Negombo – Elephant Orphanage – Local Village Experience – Sigiriya",
+        "day": 2
+      },
+      {
+        "day": 3,
+        "images": [],
+        "title": "Sigiriya – Ayrvedic Spice Garden – Temple of the Tooth – Kandy",
+        "description": "After breakfast at the hotel, climb the UNESCO World Heritage Site Sigiriya Rock, a part of Sri Lanka’s ‘Cultural Triangle’, where you will have a chance to gaze over the stunning views of Central Sri Lanka. On top of the Sigiriya Rock are the ruins of an ancient palace/rock fortress, overlooking the beautiful plains of North-Central Sri Lanka. Built by an exiled Indian prince, the breath-taking ruins are one of Sri Lanka’s main attractions and date back to AD 477. Despite its age, Sigiriya still retains much of its former beauty and features some of the finest examples of ancient wall paintings, as well as a network of attractive gardens and reservoirs, and Sigiriya’s namesake – a gigantic pair of lion’s paws cut into the rock. With its fascinating history and unerring beauty, Sigiriya is often referred to as the 8th wonder of the world and the UNESCO-sponsored Central Cultural Fund has even restored Sigiriya’s 5th century Water Gardens, so that you can get a glimpse of what Sigiriya might have been.\n\nProceed back to the hotel.\n\nLeave for Kandy, Sri Lanka’s Cultural Capital. On the way visit the Spice Garden in Matale. Since ancient trading days, Sri Lanka is world-renowned for its Quality Spices. In the 16th century Ceylon, as it was then known, was discovered by the Portuguese who soon began trading in cinnamon and other spices. The Dutch and British followed, bringing with them their own history and influences, forming a strong Western presence which created a history of food expressed with spices which can be tasted in the dishes today. Spices are an essential element of the cuisine of Sri Lanka and the Ayurvedic tradition and a visit to a garden specializes in the cultivation of these substances and an excellent way for purposes of new uses of certain ingredients that perhaps though they knew well. Find cinnamon, cloves, nutmeg, vanilla, cardamom, and black pepper, to name a few. Visitors can buy the products in their natural state or in the form of oils and potions that are used by Ayurvedic medicine.\n\nProceed to Kandy.\n\nVisit the Temple of the Tooth Relic in Kandy. Sri Dalada Maligawa in Kandy is the most prominent and sacred Buddhist shrine in Sri Lanka, even in the world. The relic of the tooth is kept in a two-story inner shrine fronted by two large elephant tusks. The relic rests on a solid gold lotus flower, encased in jeweled caskets that sit on a throne. The temple is joined by the Pattiripuwa (Octagon) tower, built in 1803, which was originally a prison but now houses a collection of palm-leaf manuscripts. The king’s palace is also in the temple compound."
+      },
+      {
+        "description": "Breakfast at the hotel. Explore the Peradeniya Botanical Garden. Botanical Garden in Peradeniya is Sri Lanka’s largest garden, an elegant and spacious 147-acres (60-hectares) where plenty of time is needed to stroll along Peradeniya’s imposing Avenue of Royal Palms. There are some 4,000 different species of plants at Peradeniya Gardens. The 10,000 or so trees, which are the stars, are mature, lofty giants, many of them tropical timber trees. Highlights of the collection include the Giant Bamboo of Burma, capable of growing to 40 meters height (130 feet) with a 25-centimeter (10-inch) stem diameter. And it can grow by a rapid 30 centimetres a day (12 inches). Absolutely sensational is the century-old giant Javan fig tree, its tentacle-like roots spread across the enormous area of about 1,800 square meters (19,375 square feet) a massive central trunk beneath the tree’s vast canopy ‘umbrella’. The Cannonball tree is also intriguing, with its cannonball-like fruit hanging off the trunk and large open, waxy pink-white flowers. So is the Double Coconut Palm, one of 200 types of palms displayed at Peradeniya – originating from Seychelles, this tree produces the largest seed known to man. Its fruits take five years to mature. The gardens showcase all of Sri Lanka’s flora and representative species from around the tropical world. Luminaries as varied as Queen Elizabeth II, Marshal Tito and Yuri Gugarin have planted trees to mark their visits to the garden.\n\nLeave for Nuwara Eliya.\n\nNo visit to the hill country is complete without a visit to a tea estate, where you can view the vibrant green fields of tea which for so many people epitomize the image of Sri Lanka. Surrounded by the breathtaking, idyllic landscape, you will also get a chance to taste and purchase some of the world’s finest tea. Nuwara Eliya is situated around 2000m above sea level and surrounded by lush tea plantations.\n\nOnce a pleasure retreats of the European planters the town is still very much an English town with many English-style bungalows and buildings. Some of the finest teas in the world are produced here, and a visit to a tea factory and a tea plantation is a must. The process is unchanged since Victorian times, and you can follow it through from picking, drying, and crushing to fermenting, packing, and finally tasting.",
+        "day": 4,
+        "title": "Kandy – Botanical Garden – Tea Plantations – Nuwara Eliya",
+        "images": []
+      },
+      {
+        "title": "Nuwara Eliya – Ella Wildlife Sanctuary – Yala National park – Tissahamarana",
+        "images": [],
+        "day": 5,
+        "description": "After breakfast leave for Yala National Park. On the way visit the Ravana Waterfall. This waterfall measures approximately 25 m (82 ft) in height and cascades from an oval-shaped concave rock outcrop. During the local wet season, the waterfall turns into what is said to resemble an areca flower with withering petals. But this is not the case in the dry season, when the flow of water reduces dramatically. The falls form part of the Ravana Ella Wildlife Sanctuary and are located 6 km from Ella.\n\nProceed to Yala\n\nVisit the Yala National Park. Yala National Park is famously known for its highest concentration of leopards in the world and this is the second largest national park in Sri Lanka. The park is primarily a shrub jungle with rocky outcrops that dot the park, along with several salt- and fresh-water lagoons. Rain is received mainly during the northeast monsoon usually from May to September. At the Yala national park visitors can spot leopards, elephants, sloth bears, Sambar, and spotted deer, jackal, mongoose, wild boar, wild buffaloes, langur and macaque monkeys. Yala is also famous for its birdlife. There are around 130 species of birds that have been spotted at the sanctuary including black-necked stork, sandpipers, pelicans, egrets, hoopoes, parakeets, and bulbuls. One could spot peacocks as soon as they enter the park, unlike the evasive jungle fowl, the national bird of Sri Lanka."
+      },
+      {
+        "description": "On the way to Hikkaduwa we stop first at Weligama. Located on Sri Lanka’s picturesque South Coast, Weligama still offers the charm of an idyllic fishing village. Enjoy walks along uncrowded beaches, still untouched by mass tourism, and be fascinated by the famous stilt fishing men. Weligama is more than beach life. Much more. Surrounded by rubber and coconut plantations, ancient temples and spice gardens, natural sanctuaries and exotic wildlife, Weligama offers something for everybody.\n\nNext, you will be visiting the Galle Fort. A Unesco World Heritage Site, this historic city is easy to explore on foot, an endlessly exotic old trading port blessed with imposing Dutch-colonial buildings, ancient mosques and churches, grand mansions and museums. Most travelers are utterly seduced by Galle’s ambiance, and it’s undoubtedly southern Sri Lanka’s one unmissable sight.\n\nHikkaduwa is a former fishing village in the southwest part of Sri Lanka, about two hours south of Colombo. It’s famous for beaches, surf spots, giant sea turtles, scuba diving and moonstone mining. The Hikkaduwa Coral Reef is located just off the Coral Sands Hotel. You can bring a mask and snorkel from home or rent gear for cheap on the beach. Either way can see tropical fishes in knee-deep water on the reef or on a scuba diving trip. This is such an inexpensive and easy activity anybody who can swim owes it to themselves to check it out.",
+        "title": "Tissahamarana – Weligama – Galle Fort – Hikkaduwa",
+        "images": [],
+        "day": "6-7"
+      }
+    ],
+    "duration": "7 Days",
+    "exclusions": [],
+    "price": "$400",
+    "description": "Marco Polo said it best – Sri Lanka is simply the finest island in the world. Also known as the Pearl of the Indian Ocean thanks to its perfect shape, location and astonishing natural beauty, our Discover Sri Lanka Tour highlights this unique gem with the perfect blend of cultural treasures, wildlife experiences and breath-taking nature.",
+    "coverImage": "https://pub-968d59474a824ac18a8b21b2b0e3f4f6.r2.dev/1767708163372-ceylon-tea.jpg",
+    "status": "Published",
+    "images": [
+      "https://pub-968d59474a824ac18a8b21b2b0e3f4f6.r2.dev/1767708171240-ceylon-tea.jpg",
+      "https://pub-968d59474a824ac18a8b21b2b0e3f4f6.r2.dev/1767708171264-galle-lighthouse.jpg",
+      "https://pub-968d59474a824ac18a8b21b2b0e3f4f6.r2.dev/1767708171261-hikkaduwa-surfing.jpg",
+      "https://pub-968d59474a824ac18a8b21b2b0e3f4f6.r2.dev/1767708171251-kandy-temple.jpg",
+      "https://pub-968d59474a824ac18a8b21b2b0e3f4f6.r2.dev/1767708171267-Negombo-Beach_(1).jpg",
+      "https://pub-968d59474a824ac18a8b21b2b0e3f4f6.r2.dev/1767708171247-Pinnawala.jpg",
+      "https://pub-968d59474a824ac18a8b21b2b0e3f4f6.r2.dev/1767708171256-sigiriya-lionrock.jpg",
+      "https://pub-968d59474a824ac18a8b21b2b0e3f4f6.r2.dev/1767708171259-stilt-fishing-weligama-1.jpg"
+    ],
+    "type": "Multi-day",
+    "location": "Sri Lanka",
+    "inclusions": [
+      "Hand-Picked Hotels",
+      "A/C Limousine / Mini Van",
+      "Chauffeur Guide",
+      "Excursions as described",
+      "Safe & Secure Certified",
+      "Fully Customizable"
+    ],
+    "mapUrl": "",
+    "name": "Discover Sri Lanka Tour 7 Days"
+  },
+  {
+    "id": "kX3UScOBOtTda4EuIOUq",
+    "name": "Ultra Luxury Sri Lanka Tour 2025",
+    "exclusions": [
+      "4×4 Jeep Safaris",
+      "Hot Air Ballooning",
+      "Flight tickets",
+      "Personal expenses",
+      "Tips"
+    ],
+    "duration": "15 Days",
+    "mapUrl": "",
+    "coverImage": "https://pub-968d59474a824ac18a8b21b2b0e3f4f6.r2.dev/1767681357104-tangalle.jpg",
+    "description": "Sri Lanka has seduced travelers for centuries. Marco Polo described it as the finest island of its size in the world, while successive waves of Indian, Arab and European traders and adventurers flocked to its palm-fringed shores. This Ultra Luxury Sri Lanka Tour has been designed to take in as many of the country’s highlights as possible while keeping travelling time to a minimum. \n\nHIGHLIGHTS: HILL COUNTRY & BEACHES – 5* BOUTIQUE HOTELS – UNESCO HERITAGE SITES – HOT AIR BALLOONING – ROYAL BOTANICAL GARDENS – WILDLIFE SAFARIS – TEA PLANTATIONS – SCENIC TRAIN RIDE – WHALE WATCHING – STILT FISHERMEN – GALLE FORT",
+    "createdAt": "2026-01-06T05:58:38.407Z",
+    "inclusions": [
+      "15 Days Private Luxury Tour",
+      "Hand-Picked Boutique Hotels",
+      "A/C Limousine / Mini Van",
+      "Chauffeur Guide",
+      "Excursions as described",
+      "Safe & Secure Certified",
+      "Fully Customizable",
+      "Entrance fees (except Jeep Safaris)"
+    ],
+    "status": "Published",
+    "images": [
+      "https://pub-968d59474a824ac18a8b21b2b0e3f4f6.r2.dev/1767681371476-98-Acres.jpg",
+      "https://pub-968d59474a824ac18a8b21b2b0e3f4f6.r2.dev/1767681371469-anuradhapura.jpg",
+      "https://pub-968d59474a824ac18a8b21b2b0e3f4f6.r2.dev/1767681371481-hot-air-balloon.jpg",
+      "https://pub-968d59474a824ac18a8b21b2b0e3f4f6.r2.dev/1767681371486-kandy-deluxe.jpg",
+      "https://pub-968d59474a824ac18a8b21b2b0e3f4f6.r2.dev/1767681371491-sigiriya.jpg",
+      "https://pub-968d59474a824ac18a8b21b2b0e3f4f6.r2.dev/1767681371495-tangalle.jpg",
+      "https://pub-968d59474a824ac18a8b21b2b0e3f4f6.r2.dev/1767681371501-Wallawwa.jpg",
+      "https://pub-968d59474a824ac18a8b21b2b0e3f4f6.r2.dev/1767681371498-yala-national-park.jpg"
+    ],
+    "type": "Multi-day",
+    "itinerary": [
+      {
+        "title": "Airport – Negombo",
+        "description": "After your arrival at Sri Lanka’s Bandaranayke International Airport, you will be met by your personal Chauffeur Guide. Start your tour with a limousine transfer to The Wallawwa, an award-winning boutique hotel set in 200-year-old tropical gardens with gourmet food, jungle pool, and heavenly spa carved out of an atmospheric 18th-century manor house. The Wallawwa is conveniently located not only for Colombo Airport but also for exploring the busy fishing town of Negombo.",
+        "images": [],
+        "day": 1
+      },
+      {
+        "day": 2,
+        "title": "Negombo – Private City Tour – Canal and Lagoon Boat Trip",
+        "description": "In the middle of NEGOMBO stands the stately pink landmark of St Mary’s Church. A detour towards the sea runs past the harbor and the main fish market. visit the Muthurajawela Wetlands and enjoy a boat trip down the Hamilton Canal to the Negombo Lagoon, home to abundant birdlife and mangroves.",
+        "images": []
+      },
+      {
+        "title": "Negombo – Anuradhapura – Sacred Bo Tree – Sigiriya",
+        "description": "Visit Anuradhapura, Sri Lanka’s first capital, founded in 380 BC. See the Sri Maha Bodhi (Sacred Bo Tree), the oldest historically documented tree in the world. In the afternoon proceed to the Water Garden Hotel in Sigiriya where luxury meets nature surrounded by lakes & water streams.",
+        "images": [],
+        "day": 3
+      },
+      {
+        "day": 4,
+        "title": "Sigiriya – Lion Rock Fortress – Ancient Polonnaruwa",
+        "images": [],
+        "description": "Rise early to beat the crowds at the breathtaking Sigiriya Rock – a UNESCO Heritage Site. In the afternoon, head to Polonnaruwa, the great ruined capital and one of the undisputed highlights of the Cultural Triangle."
+      },
+      {
+        "day": 5,
+        "title": "Sigiriya – Dambulla Rock and Cave Temples – Udawattakele Sanctuary – Kandy",
+        "description": "En-Route to Kandy, visit the Dambulla Cave Temples, a treasure-trove of Buddhist art. Explore the Udawattakele Nature Sanctuary, an enchanting forest reserve. Check into Kings Pavilion Hotel, Kandy.",
+        "images": []
+      },
+      {
+        "images": [],
+        "title": "Kandy City Tour",
+        "description": "Explore Kandy, the last Sinhalese kingdom. Visit the Temple of the Sacred Tooth Relic, Kandy Market, and the Royal Botanical Gardens in Peradeniya with over 4000 flowers and plants.",
+        "day": 6
+      },
+      {
+        "images": [],
+        "day": 7,
+        "title": "Kandy – Ella Train Ride",
+        "description": "Take the scenic train journey from Kandy to Ella, considered one of the most beautiful train rides in the world. Experience breathtaking views of lush green tea plantations, mountains, viaducts, valleys, and dense jungle. Overnight at 98 Acres Resort and Spa."
+      },
+      {
+        "description": "Enjoy the 'Tea Story' tour to learn about tea production. Go biking through tea plantations or hiking to Little Adam’s Peak and Ella Rock. Visit Ravana Ella Falls.",
+        "title": "Ella Exploration (Days 8-10)",
+        "images": [],
+        "day": 8
+      },
+      {
+        "images": [],
+        "description": "Travel to the South Coast beaches. Tangalle offers a peaceful retreat. Visit Yala National Park for wildlife safaris to spot leopards and elephants. Experience the Rekawa Turtle Watch, Whale Watching in Mirissa, and visit the sacred town of Kataragama or Sinharaja Rain Forest. Stay at Anantara Peace Haven Tangalle Resort.",
+        "title": "Ella – South Coast – Tangalle (Days 11-14)",
+        "day": 11
+      },
+      {
+        "day": 15,
+        "description": "Visit the historic Galle Fort, a UNESCO world heritage site, on your way back to the airport or your next destination.",
+        "images": [],
+        "title": "Tangalle – Galle – Airport"
+      }
+    ],
+    "price": "$4,499",
+    "location": "Sri Lanka"
+  }
+]

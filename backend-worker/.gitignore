@@ -1,0 +1,4 @@
+firebase-service-account.json
+.wrangler
+.dev.vars
+node_modules

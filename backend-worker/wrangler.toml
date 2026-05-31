@@ -1,0 +1,15 @@
+name = "backend-worker"
+main = "src/index.js"
+compatibility_date = "2024-01-05"
+compatibility_flags = ["nodejs_compat"]
+
+[vars]
+ACCOUNT_ID = "a3e94402160912d56bcaf4555d4cd296"
+R2_BUCKET_NAME = "lakdinu-tours"
+R2_PUBLIC_DOMAIN = "https://pub-90cbd7af5cf54a21a7e7d1d9d2b79f41.r2.dev"
+
+# Secrets (Set these via npx wrangler secret put)
+# R2_ACCESS_KEY_ID
+# R2_SECRET_ACCESS_KEY
+# FIREBASE_SERVICE_ACCOUNT_JSON
+# Reload trigger

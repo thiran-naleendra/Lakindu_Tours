@@ -1,0 +1,97 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <!-- <link rel="icon" type="image/svg+xml" href="/vite.svg" /> -->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Lakdinu Tours - Sri Lanka Travel Expert</title>
+  <!-- Fonts & Icons -->
+  <!-- Fonts & Icons -->
+  <link href="https://fonts.googleapis.com" rel="preconnect" />
+  <link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect" />
+  <link
+    href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;1,400&family=Lato:wght@300;400;700&family=Poppins:wght@300;400;500;600;700&family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap"
+    rel="stylesheet" />
+  <link
+    href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap"
+    rel="stylesheet" />
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" />
+</head>
+
+<body class="bg-[#f6f7f8] font-display">
+  <style>
+    /* Hide Google Translate Toolbar - Old & New styles */
+    .goog-te-banner-frame.skiptranslate,
+    .goog-te-banner-frame,
+    iframe.skiptranslate,
+    .VIpgJd-ZVi9od-ORHb-OEVmcd,
+    .VIpgJd-ZVi9od-OnFnGB,
+    body>.skiptranslate {
+      display: none !important;
+      visibility: hidden !important;
+      height: 0 !important;
+      width: 0 !important;
+      position: absolute !important;
+      z-index: -1000 !important;
+    }
+
+    body {
+      top: 0px !important;
+      position: static !important;
+    }
+
+    /* Hide the default Google Translate widget */
+    #google_translate_element {
+      display: none;
+    }
+
+    /* Hide the "Original text" tooltip */
+    .goog-tooltip {
+      display: none !important;
+    }
+
+    .goog-tooltip:hover {
+      display: none !important;
+    }
+
+    .goog-text-highlight {
+      background-color: transparent !important;
+      box-shadow: none !important;
+    }
+  </style>
+  <div id="app"></div>
+  <div id="google_translate_element"></div>
+  <script type="text/javascript">
+    function googleTranslateElementInit() {
+      new google.translate.TranslateElement({ pageLanguage: 'en', autoDisplay: false }, 'google_translate_element');
+    }
+
+    // Aggressive Banner Removal
+    const observer = new MutationObserver(() => {
+      // Find the iframe or banner element
+      const banner = document.querySelector('.goog-te-banner-frame') ||
+        document.querySelector('iframe.skiptranslate') ||
+        document.querySelector('body > table.skiptranslate'); // Sometimes it's a table
+
+      if (banner) {
+        banner.style.display = 'none';
+      }
+
+      // Force body top to 0
+      if (document.body.style.top !== '0px') {
+        document.body.style.top = '0px';
+      }
+
+      // Remove known dynamic classes if they mess with layout (Risky if class names change, but 'VIpgJd' is common prefix)
+      // Better to target strict style overrides in CSS
+    });
+
+    observer.observe(document.body, { attributes: true, childList: true, subtree: false });
+  </script>
+  <script type="text/javascript"
+    src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+  <script type="module" src="/src/main.js"></script>
+</body>
+
+</html>
